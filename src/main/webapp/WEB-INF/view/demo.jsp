@@ -7,6 +7,6 @@
 <title>首页</title>
 </head>
 <body>
-    <h1>This is SpringMVC Demo</h1>
+    <h1>你好哦~</h1>
 </body>
 </html>
